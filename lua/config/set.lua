@@ -23,6 +23,8 @@ vim.opt.undofile = true
 -- dynamically highlight text during search
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
+vim.opt.ignorecase = true
+vim.opt.smartcase = true
 
 -- use terminal colors
 vim.opt.termguicolors = true
