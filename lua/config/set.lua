@@ -40,3 +40,5 @@ vim.opt.updatetime = 50
 -- add column 80 characters to the right
 vim.opt.colorcolumn = "80"
 
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
