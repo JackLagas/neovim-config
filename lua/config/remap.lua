@@ -1,5 +1,6 @@
 -- set map leader to space
 vim.g.mapleader = " "
+vim.g.maplocalleader = " "
 
 -- open netrw menu
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
